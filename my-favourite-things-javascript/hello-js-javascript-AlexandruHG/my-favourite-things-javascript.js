@@ -41,11 +41,6 @@ for(let episodes = 0; episodes < 11; episodes = episodes + 1) {
        console.log("This is the episode", episodes , "of my favourite last season tv series");
 }
 
-for(let i = 0; i < 3; i = i + 1) {
-   if(directors.lenghts < 3)
-     console.log(directors)
-}
-
 console.log(myFavBook.title);
 console.log(myFavTvSeries.seasons.endYear);
 
